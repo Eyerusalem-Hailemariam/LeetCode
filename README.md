@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Linked List
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
