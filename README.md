@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0447-number-of-boomerangs](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0496-next-greater-element-i](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0731-my-calendar-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0447-number-of-boomerangs](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0447-number-of-boomerangs) |
+| [0496-next-greater-element-i](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [2574-count-subarrays-with-median-k](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 ## Backtracking
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0739-daily-temperatures) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
@@ -112,5 +115,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
