@@ -1,16 +1,17 @@
 class Solution:
     def balancedStringSplit(self, s: str) -> int:
-        balance = 0
+        str_R = 0
+        str_L = 0
         count = 0
-        
-        for char in s:
-            if char == 'R':
-                balance += 1
+        for string in s:
+            if string == "R":
+                str_R += 1
             else:
-                balance -= 1
-            
-            if balance == 0:  
+                str_L += 1
+
+            if str_R == str_L:
                 count += 1
-                
         return count
-            
+
+
+        
