@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -170,10 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## String Matching
 |  |
 | ------- |
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 <!---LeetCode Topics End-->
