@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0055-jump-game) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0046-permutations) |
 ## Linked List
 |  |
 | ------- |
