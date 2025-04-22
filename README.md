@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [2793-count-the-number-of-complete-components](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [3189-find-champion-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3189-find-champion-ii) |
 ## Union Find
 |  |
 | ------- |
