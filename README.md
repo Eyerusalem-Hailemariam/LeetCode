@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0690-employee-importance](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0690-employee-importance) |
 | [0731-my-calendar-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0792-binary-search) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0447-number-of-boomerangs](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0496-next-greater-element-i](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0690-employee-importance](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0690-employee-importance) |
 | [0797-rabbits-in-forest](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [2574-count-subarrays-with-median-k](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 ## Backtracking
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0101-symmetric-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0690-employee-importance](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0690-employee-importance) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0101-symmetric-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0690-employee-importance](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0690-employee-importance) |
 | [1005-univalued-binary-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## String Matching
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0101-symmetric-tree) |
+| [0690-employee-importance](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0690-employee-importance) |
 | [1005-univalued-binary-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
