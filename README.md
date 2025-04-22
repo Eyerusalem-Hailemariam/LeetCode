@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0690-employee-importance) |
 | [1005-univalued-binary-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [2793-count-the-number-of-complete-components](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## String Matching
 |  |
 | ------- |
@@ -210,8 +211,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [2793-count-the-number-of-complete-components](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [2793-count-the-number-of-complete-components](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+## Union Find
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
