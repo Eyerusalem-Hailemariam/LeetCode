@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Binary Search
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Simulation
 |  |
@@ -177,12 +179,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0690-employee-importance](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0690-employee-importance) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1005-univalued-binary-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1005-univalued-binary-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
@@ -248,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 <!---LeetCode Topics End-->
