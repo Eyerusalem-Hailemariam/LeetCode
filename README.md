@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0447-number-of-boomerangs](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0475-heaters](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0690-employee-importance](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0690-employee-importance) |
 | [0731-my-calendar-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0475-heaters](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0475-heaters) |
 | [0731-my-calendar-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0792-binary-search) |
 ## Segment Tree
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0475-heaters](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0475-heaters) |
 | [0874-backspace-string-compare](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0475-heaters](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0475-heaters) |
 | [1018-largest-perimeter-triangle](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1095-two-city-scheduling) |
 ## Counting
