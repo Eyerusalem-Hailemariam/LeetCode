@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0055-jump-game) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0447-number-of-boomerangs](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0447-number-of-boomerangs) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0475-heaters) |
 | [0692-top-k-frequent-words](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1127-last-stone-weight) |
@@ -274,4 +277,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0692-top-k-frequent-words) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
