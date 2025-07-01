@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0447-number-of-boomerangs](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0475-heaters) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0475-heaters) |
 | [0731-my-calendar-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0792-binary-search) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0475-heaters) |
 | [0692-top-k-frequent-words](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1876-map-of-highest-peak](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## Topological Sort
 |  |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1127-last-stone-weight) |
