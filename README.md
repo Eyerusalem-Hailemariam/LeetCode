@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [1955-seat-reservation-manager](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1955-seat-reservation-manager) |
 ## Binary Search
 |  |
 | ------- |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1127-last-stone-weight) |
 | [1762-furthest-building-you-can-reach](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
+| [1955-seat-reservation-manager](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
