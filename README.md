@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2574-count-subarrays-with-median-k](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3055-maximum-odd-binary-number](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1018-largest-perimeter-triangle](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1095-two-city-scheduling) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Counting
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1876-map-of-highest-peak](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Topological Sort
 |  |
 | ------- |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Trie
 |  |
 | ------- |
