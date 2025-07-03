@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0101-symmetric-tree) |
 | [0210-course-schedule-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0572-subtree-of-another-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0690-employee-importance) |
 | [0820-find-eventual-safe-states](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1005-univalued-binary-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1005-univalued-binary-tree) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0210-course-schedule-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0690-employee-importance) |
 | [0820-find-eventual-safe-states](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1005-univalued-binary-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1005-univalued-binary-tree) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [2793-count-the-number-of-complete-components](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0684-redundant-connection) |
 | [2793-count-the-number-of-complete-components](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
