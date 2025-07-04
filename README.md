@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0878-shifting-letters](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0890-lemonade-change) |
+| [0999-regions-cut-by-slashes](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1018-largest-perimeter-triangle](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1127-last-stone-weight](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1127-last-stone-weight) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0797-rabbits-in-forest](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0999-regions-cut-by-slashes](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [2574-count-subarrays-with-median-k](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 ## Backtracking
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0690-employee-importance) |
 | [0820-find-eventual-safe-states](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0999-regions-cut-by-slashes](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1005-univalued-binary-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0690-employee-importance) |
 | [0820-find-eventual-safe-states](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0999-regions-cut-by-slashes](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1005-univalued-binary-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -281,12 +285,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0684-redundant-connection) |
+| [0999-regions-cut-by-slashes](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0999-regions-cut-by-slashes](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
