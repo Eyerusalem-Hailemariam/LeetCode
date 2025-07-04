@@ -1,45 +1,38 @@
 class Solution:
     def regionsBySlashes(self, grid: List[str]) -> int:
-        n = len(grid)
-        uf = UnionFind(4 * n * n)
+        roots = {}
 
-        for i in range(n):
-            for j in range(n):
-                index = 4 * (i * n + j)
+        def find(x):
+            if x not in roots:
+                roots[x] = x
+            while x != roots[x]:
+                roots[x] = roots[roots[x]]  
+                x = roots[x]
+            return x
+
+        def union(x, y):
+            roots[find(x)] = find(y)
+
+        length = len(grid)
+
+        for i in range(length):
+            for j in range(length):
                 c = grid[i][j]
-
-                if c == ' ':
-                    uf.union(index + 0, index + 1)
-                    uf.union(index + 1, index + 2)
-                    uf.union(index + 2, index + 3)
-                elif c == '/':
-                    uf.union(index + 0, index + 3)
-                    uf.union(index + 1, index + 2)
+                if c == '/':
+                    union((i, j, 'N'), (i, j, 'W'))
+                    union((i, j, 'S'), (i, j, 'E'))
                 elif c == '\\':
-                    uf.union(index + 0, index + 1)
-                    uf.union(index + 2, index + 3)
+                    union((i, j, 'N'), (i, j, 'E'))
+                    union((i, j, 'S'), (i, j, 'W'))
+                elif c == ' ':
+                    union((i, j, 'N'), (i, j, 'E'))
+                    union((i, j, 'E'), (i, j, 'S'))
+                    union((i, j, 'S'), (i, j, 'W'))
+                    union((i, j, 'W'), (i, j, 'N'))
 
-              
-                if i + 1 < n:
-                    uf.union(index + 2, (index + 4 * n) + 0)
-               
-                if j + 1 < n:
-                    uf.union(index + 1, (index + 4) + 3)
+                if j > 0:
+                    union((i, j - 1, 'E'), (i, j, 'W'))
+                if i > 0:
+                    union((i - 1, j, 'S'), (i, j, 'N'))
 
-        return uf.count()
-
-class UnionFind:
-    def __init__(self, N):
-        self.parent = list(range(N))
-
-    def find(self, x):
-        if self.parent[x] != x:
-            self.parent[x] = self.find(self.parent[x])
-        return self.parent[x]
-
-    def union(self, x, y):
-        self.parent[self.find(x)] = self.find(y)
-
-    def count(self):
-        return sum(1 for i in range(len(self.parent)) if self.find(i) == i)
-    
+        return len(set(find(x) for x in roots))
