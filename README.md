@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0690-employee-importance](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0721-accounts-merge) |
 | [0731-my-calendar-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0792-binary-search) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0878-shifting-letters) |
 | [0886-score-of-parentheses](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0886-score-of-parentheses) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0690-employee-importance](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0721-accounts-merge) |
 | [0797-rabbits-in-forest](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0475-heaters) |
 | [0692-top-k-frequent-words](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0721-accounts-merge) |
 | [1018-largest-perimeter-triangle](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1962-single-threaded-cpu](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1962-single-threaded-cpu) |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0690-employee-importance) |
+| [0721-accounts-merge](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0721-accounts-merge) |
 | [0820-find-eventual-safe-states](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -268,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0690-employee-importance) |
+| [0721-accounts-merge](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0721-accounts-merge) |
 | [0820-find-eventual-safe-states](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1005-univalued-binary-tree](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1005-univalued-binary-tree) |
@@ -291,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
