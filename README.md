@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1127-last-stone-weight](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1127-last-stone-weight) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1720-crawler-log-folder](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1762-furthest-building-you-can-reach](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2793-count-the-number-of-complete-components](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3189-find-champion-ii) |
 ## Union Find
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2793-count-the-number-of-complete-components](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
@@ -358,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
