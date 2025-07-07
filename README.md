@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0878-shifting-letters) |
 | [0886-score-of-parentheses](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0886-score-of-parentheses) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1720-crawler-log-folder](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1720-crawler-log-folder) |
 | [3055-maximum-odd-binary-number](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3055-maximum-odd-binary-number) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2793-count-the-number-of-complete-components](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
