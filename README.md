@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0898-transpose-matrix) |
+| [0917-boats-to-save-people](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0999-regions-cut-by-slashes](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1018-largest-perimeter-triangle](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0475-heaters](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0475-heaters) |
 | [0874-backspace-string-compare](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0917-boats-to-save-people](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0797-rabbits-in-forest](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0475-heaters) |
 | [0692-top-k-frequent-words](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0721-accounts-merge) |
+| [0917-boats-to-save-people](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1962-single-threaded-cpu](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1962-single-threaded-cpu) |
