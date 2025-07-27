@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0055-jump-game) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0475-heaters](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0475-heaters) |
