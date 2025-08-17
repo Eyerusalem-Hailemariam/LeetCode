@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0878-shifting-letters](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0878-shifting-letters) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [2574-count-subarrays-with-median-k](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 ## Design
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0475-heaters) |
 | [0731-my-calendar-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0792-binary-search) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 ## Segment Tree
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0886-score-of-parentheses) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1720-crawler-log-folder](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1720-crawler-log-folder) |
 | [3055-maximum-odd-binary-number](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3055-maximum-odd-binary-number) |
@@ -409,4 +412,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1020-longest-turbulent-subarray) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->
