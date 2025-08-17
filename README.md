@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0999-regions-cut-by-slashes](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1018-largest-perimeter-triangle](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1020-longest-turbulent-subarray](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1095-two-city-scheduling](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1127-last-stone-weight](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1127-last-stone-weight) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0055-jump-game) |
+| [1020-longest-turbulent-subarray](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Math
 |  |
@@ -406,4 +408,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1020-longest-turbulent-subarray](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 <!---LeetCode Topics End-->
