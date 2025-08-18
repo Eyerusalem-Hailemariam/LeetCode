@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1127-last-stone-weight](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1127-last-stone-weight) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1603-running-sum-of-1d-array](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1720-crawler-log-folder](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1762-furthest-building-you-can-reach](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0878-shifting-letters](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0878-shifting-letters) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1603-running-sum-of-1d-array](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2574-count-subarrays-with-median-k](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 ## Design
 |  |
