@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
+| [2465-shifting-letters-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2574-count-subarrays-with-median-k](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0878-shifting-letters) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1603-running-sum-of-1d-array](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2465-shifting-letters-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2574-count-subarrays-with-median-k](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 ## Design
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1720-crawler-log-folder](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1720-crawler-log-folder) |
+| [2465-shifting-letters-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [3055-maximum-odd-binary-number](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Hash Table
