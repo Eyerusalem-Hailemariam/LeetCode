@@ -421,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
