@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0838-design-linked-list](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0838-design-linked-list) |
 | [0969-number-of-recent-calls](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1955-seat-reservation-manager](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1955-seat-reservation-manager) |
 ## Binary Search
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0838-design-linked-list](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
