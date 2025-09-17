@@ -1,11 +1,11 @@
 class Solution:
     def numRabbits(self, answers: List[int]) -> int:
-        count_answers = Counter(answers)
-        total_rabits = 0
-        for ans, count in count_answers.items():
-            group_size = ans + 1
-            num_groups = ceil(count / group_size)
-            total_rabits += num_groups * group_size
+        freq = Counter(answers)
+        total = 0
 
-        return total_rabits
+        for x, count in freq.items():
+            group_size = x + 1
+            groups = (count + group_size - 1) // group_size  
+            total += groups * group_size
 
+        return total
