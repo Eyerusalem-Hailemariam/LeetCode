@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0797-rabbits-in-forest](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [3055-maximum-odd-binary-number](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1095-two-city-scheduling) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1762-furthest-building-you-can-reach](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
