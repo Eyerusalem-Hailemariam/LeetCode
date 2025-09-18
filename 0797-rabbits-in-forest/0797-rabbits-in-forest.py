@@ -1,11 +1,10 @@
 class Solution:
     def numRabbits(self, answers: List[int]) -> int:
-        freq = Counter(answers)
-        total = 0
+        count_answers = Counter(answers)
+        totals = 0
 
-        for x, count in freq.items():
-            group_size = x + 1
-            groups = (count + group_size - 1) // group_size  
-            total += groups * group_size
-
-        return total
+        for answer, freq in count_answers.items():
+            group_size = answer + 1
+            group = math.ceil(freq / group_size)
+            totals += group * group_size
+        return totals
