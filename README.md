@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0342-power-of-four) |
 | [0447-number-of-boomerangs](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0797-rabbits-in-forest](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0342-power-of-four) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
