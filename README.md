@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0342-power-of-four) |
 | [0447-number-of-boomerangs](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0797-rabbits-in-forest](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
