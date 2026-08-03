@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0079-word-search) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0212-word-search-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0212-word-search-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0212-word-search-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0342-power-of-four) |
