@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0055-jump-game) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0213-house-robber-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0213-house-robber-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0051-n-queens) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
 |  |
