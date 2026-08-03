@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0079-word-search) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0212-word-search-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0212-word-search-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0212-word-search-ii) |
 | [0344-reverse-string](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0212-word-search-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
 |  |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0212-word-search-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0898-transpose-matrix) |
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0212-word-search-ii) |
 | [0692-top-k-frequent-words](https://github.com/Eyerusalem-Hailemariam/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
