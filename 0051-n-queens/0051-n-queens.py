@@ -1,16 +1,15 @@
 class Solution:
     def solveNQueens(self, n: int) -> list[list[str]]:
         res = []
-        cols = set()
-        pos_diag = set()
-        neg_diag = set()
+        cols = [False] * n
+        pos_diag = [False] * (2 * n - 1)
+        neg_diag = [False] * (2 * n - 1)
         
-        # 1D array to track queen positions: queens[row] = col
         queens = [-1] * n
 
         def backtrack(r):
             if r == n:
-                # We only build the board strings here at the very end
+               
                 board = []
                 for c in queens:
                     row_str = "." * c + "Q" + "." * (n - 1 - c)
@@ -19,22 +18,21 @@ class Solution:
                 return
 
             for c in range(n):
-                if c in cols or (r + c) in pos_diag or (r - c) in neg_diag:
+                if cols[c] or pos_diag[r + c] or neg_diag[r - c + n - 1]:
                     continue
 
-                # Place the queen in our 1D array
-                cols.add(c)
-                pos_diag.add(r + c)
-                neg_diag.add(r - c)
+              
+                cols[c] = True
+                pos_diag[r + c] = True
+                neg_diag[r - c + n - 1] = True
                 queens[r] = c
 
                 backtrack(r + 1)
 
-                # Backtrack
-                cols.remove(c)
-                pos_diag.remove(r + c)
-                neg_diag.remove(r - c)
-                # No need to reset queens[r] because it just gets overwritten later
+                
+                cols[c] = False
+                pos_diag[r + c] = False
+                neg_diag[r - c + n - 1] = False
 
         backtrack(0)
         return res
