@@ -2,16 +2,16 @@ class Solution:
     def subsets(self, nums: list[int]) -> list[list[int]]:
         res = []
         
-        def backtrack(start: int, path: list[int]):
-            res.append(list(path))
+        def backtrack(index, current):
+            if index == len(nums):
+                res.append(list(current))
+                return
             
-            for i in range(start, len(nums)):
-                path.append(nums[i])
-  
-                backtrack(i + 1, path)
-                
+            current.append(nums[index])
+            backtrack(index + 1, current)
+            current.pop()  
             
-                path.pop()
-        
+            backtrack(index + 1, current)
+            
         backtrack(0, [])
         return res
