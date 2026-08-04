@@ -13,6 +13,9 @@ class Solution:
             for i in range(start, len(candidates)):
                 if i > start and candidates[i] == candidates[i - 1]:
                     continue
+
+                if candidates[i] > remain:
+                    break
               
                 comb.append(candidates[i])
                 
