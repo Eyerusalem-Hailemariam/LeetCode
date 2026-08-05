@@ -1,14 +1,10 @@
 class Solution:
-    def grayCode(self, n: int) -> list[int]:
-   
-        if n == 0:
-            return [0]
+    def grayCode(self, n: int) -> List[int]:
+        res = [0]
         
-        prev_sequence = self.grayCode(n - 1)
+        for i in range(1, n + 1):
+            add_val = 1 << (i - 1)
         
-      
-        add_val = 1 << (n - 1)
-        
-        mirrored_part = [x + add_val for x in reversed(prev_sequence)]
-        
-        return prev_sequence + mirrored_part
+            res += [x + add_val for x in reversed(res)]
+            
+        return res
